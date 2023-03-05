@@ -1,24 +1,22 @@
 ﻿# Data-Analytics-Practice
 
-#Data 
+## Python
 
-* Python
+	* NUMPY(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/numpy
 
-		** NUMPY(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/numpy
-
-		PANDAS(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/pandas
+	* PANDAS(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/pandas
 		
-		SKLEARN(REPASO): https://github.com/CarlosZaragozaBeato/Machine-Learning
+	* SKLEARN(REPASO): https://github.com/CarlosZaragozaBeato/Machine-Learning
 	
-		Django(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/django
+	* Django(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/django
 
-		Selenium (NUEVO): NEW
+	* Selenium (NUEVO): NEW
 
 		
 
-Mysql
+## Mysql
 
-	MYSQL(REPASO): https://github.com/CarlosZaragozaBeato/Mysql
+	* MYSQL(REPASO): https://github.com/CarlosZaragozaBeato/Mysql
 
 
 
