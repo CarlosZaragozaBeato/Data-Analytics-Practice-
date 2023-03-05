@@ -2,7 +2,7 @@
 
 ## Python
 
-	* NUMPY(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/numpy
+	*NUMPY(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/numpy
 
 	* PANDAS(REPASO): https://github.com/CarlosZaragozaBeato/Python/tree/pandas
 		
